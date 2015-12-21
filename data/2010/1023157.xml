@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Travel Grant: Principles of Design in Symmetric Cryptography</AwardTitle>
+    <AwardEffectiveDate>02/01/2010</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2011</AwardExpirationDate>
+    <AwardAmount>6000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Carl Landwehr</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award will support the dissemination of Dr. Liskov's research on symmetric cryptography, which was supported previously by award CNS-0845662. In particular it will pay for his graduate student to travel to the IACR Theory of Cryptography Conference and to the Eurocrypt Conference. In addition to supporting the timely dissemination of cryptographic research, the award will provide valuable educational experiences and training for a young scientist close to the completition of his Ph.D.</AbstractNarration>
+    <MinAmdLetterDate>01/25/2010</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/25/2010</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1023157</AwardID>
+    <Investigator>
+      <FirstName>Moses</FirstName>
+      <LastName>Liskov</LastName>
+      <EmailAddress>mliskov@cs.wm.edu</EmailAddress>
+      <StartDate>01/25/2010</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>College of William and Mary</Name>
+      <CityName>Williamsburg</CityName>
+      <ZipCode>231878795</ZipCode>
+      <PhoneNumber>7572213966</PhoneNumber>
+      <StreetAddress>Office of Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+  </Award>
+</rootTag>

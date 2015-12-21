@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Department of State, Diplomatic Security of the NSF/NSB Annual Awrds Dinner on May 4, 2010</AwardTitle>
+    <AwardEffectiveDate>05/01/2010</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2010</AwardExpirationDate>
+    <AwardAmount>4000</AwardAmount>
+    <AwardInstrument>
+      <Value>Contract Interagency Agreement</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01000004</Code>
+      <Directorate>
+        <LongName>OFFICE OF THE DIRECTOR</LongName>
+      </Directorate>
+      <Division>
+        <LongName>OFFICE OF THE DIRECTOR</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kathryn R. Rison</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>03/08/2010</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/08/2010</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1026056</AwardID>
+    <Investigator>
+      <FirstName>Janet</FirstName>
+      <LastName>Freer</LastName>
+      <EmailAddress/>
+      <StartDate>03/08/2010</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>International Cooperative Administrative Support Services</Name>
+      <CityName>Washington</CityName>
+      <ZipCode>200370000</ZipCode>
+      <PhoneNumber/>
+      <StreetAddress>2401 E St NW FL15</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>District of Columbia</StateName>
+      <StateCode>DC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>042P</Code>
+      <Text>WATERMAN AWD. ADMIN.</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>GRADUATE RESEARCH FELLOWSHIP PROGRAM</AwardTitle>
+    <AwardEffectiveDate>09/01/2010</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2015</AwardExpirationDate>
+    <AwardAmount>0</AwardAmount>
+    <AwardInstrument>
+      <Value>Fellowship</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11010101</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Graduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Gisele T. Muller-Parker</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>08/29/2010</MinAmdLetterDate>
+    <MaxAmdLetterDate>09/09/2010</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1060711</AwardID>
+    <Investigator>
+      <FirstName>Willie</FirstName>
+      <LastName>Trotty</LastName>
+      <EmailAddress>willie_trotty@pvamu.edu</EmailAddress>
+      <StartDate>08/29/2010</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Prairie View A&amp;M Research Foundation</Name>
+      <CityName>Prairie View</CityName>
+      <ZipCode>774462818</ZipCode>
+      <PhoneNumber>9362611640</PhoneNumber>
+      <StreetAddress>P O Box 667</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+  </Award>
+</rootTag>

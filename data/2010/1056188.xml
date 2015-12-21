@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Approximate description of nuclear quantum effects applicable to large systems</AwardTitle>
+    <AwardEffectiveDate>06/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2016</AwardExpirationDate>
+    <AwardAmount>622818</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Directorate for Mathematical &amp; Physical Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Evelyn M. Goldfield</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Sophya Garashchuk of the University of South Carolina is supported by a CAREER award from the Theory, Models and Computational Methods program in the Chemistry division to develop theoretical and computational methods that help to answer the question, when is it important to take the quantum nature of the nuclei into account when studying chemical processes? Dr. Garashchuk and her research group develop approximate quantum trajectory methods that are scalable to large molecular systems. This methodology is based on the dynamics of an ensemble of quantum trajectories representing a wavefunction. The development of the quantum trajectory framework in imaginary time used for the Boltzmann evolution and eigenstate calculation enable the direct calculation of thermal rate constants. The dominant quantum, inherently non-local, effects are incorporated into trajectory dynamics through a "mean-field"-type approximation to the quantum force, which can be turned off to assess its importance in a chemical process.&lt;br/&gt;&lt;br/&gt;Theoretical studies of reactivity in large systems contribute to the fundamental understanding of molecular systems in chemistry, physics, and biology and material science. Dr. Garashchuk also engages in many outreach programs that broaden participation of underrepresented groups in the scientific process, attract more young people to research-oriented careers and bring more visibility and appreciation of science in a geographically underrepresented in research (EPSCoR eligible) state of South Carolina. The computer code developed in this project is made widely available to the research community.&lt;br/&gt;&lt;br/&gt;The project is co-funded by the Office of Cyberinfrastructure.</AbstractNarration>
+    <MinAmdLetterDate>01/13/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/07/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1056188</AwardID>
+    <Investigator>
+      <FirstName>Sophya</FirstName>
+      <LastName>Garashchuk</LastName>
+      <EmailAddress>garashch@mailbox.sc.edu</EmailAddress>
+      <StartDate>01/13/2011</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University South Carolina Research Foundation</Name>
+      <CityName>COLUMBIA</CityName>
+      <ZipCode>292080001</ZipCode>
+      <PhoneNumber>8037777093</PhoneNumber>
+      <StreetAddress>901 Sumter Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>South Carolina</StateName>
+      <StateCode>SC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1045</Code>
+      <Text>CAREER: FACULTY EARLY CAR DEV</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>
